@@ -300,6 +300,11 @@ ion-icon:hover {
     left: calc(935px - 293px + (100vw - 935px) / 2);
 }
 
+.side-bar img:hover,
+.side-bar h3:hover {
+    cursor: pointer;
+}
+
 .profile {
     width: 100%;
     display: flex;
@@ -348,7 +353,7 @@ ion-icon:hover {
 .page h3 {
     font-size: 14px;
     margin-bottom: 6px;
-    font-weight: 400;
+    font-weight: 500;
 }
 
 .call-to-action {
