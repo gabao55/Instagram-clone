@@ -261,14 +261,17 @@ ion-icon:hover {
     border-top: 1px #DBDBDB solid;
 }
 
-.publish-comment p {
+.publish-comment button {
     margin-right: 18px;
     color: #B2DFFC;
     font-weight: 500;
+    border: none;
+    font-size: 14px;
+    background-color: transparent;
     transition: ease-in-out 300ms;
 }
 
-.publish-comment p:hover {
+.publish-comment button:hover {
     color: #0095F6;
     cursor: pointer;
 }
