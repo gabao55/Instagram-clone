@@ -450,7 +450,7 @@ ion-icon:hover {
     .content {
         justify-content: center;
         width: 100%;
-        margin: 0;
+        margin: 54px 0 0 0;
     }
 
     .feed {
