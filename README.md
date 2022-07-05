@@ -1,4 +1,4 @@
-<h1 align="center">Instagram clone</h1>
+<h1 align="center">Pics app clone</h1>
 
 <h2>Context</h2>
 
